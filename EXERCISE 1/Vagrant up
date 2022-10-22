@@ -1,0 +1,11 @@
+# VAGRANT
+The purpose of this task is to set up the vagrant environment which is an open source software that is essential to operating virtual software environments.  
+
+## IMAGE SCREENSHOTS
+
+![dhcp screenshot](dhcp.png)
+
+### Ifconfig
+This command is used to configure network interface.
+
+![ifconfig screenshot](iconfig.png)

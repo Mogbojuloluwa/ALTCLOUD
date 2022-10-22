@@ -1,0 +1,8 @@
+# USER GROUPS
+
+This exercise is to create user groups(admin,support and engineering)
+
+Below is a screenshot of the contents of /etc/ passwd,group and sudoers
+
+![screenshot of groups created](/EXERCISE%203/IMAGES/etc%20group%2Cpasswd%2Csudoers.png)
+

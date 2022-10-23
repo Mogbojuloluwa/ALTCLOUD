@@ -1,0 +1,6 @@
+This week focused on bash scripting which are a series of commands written in a file and executed by the bash programme.This makes the automation of processes easier. Further taught on how we can execute bash scripts at specific times with crontab.
+
+![screenshot of bash script](/EXERCISE%207/IMAGES/Bash%20script.png)
+
+![screenshot of Crontab output](/EXERCISE%207/IMAGES/Crontab%20copy.png)
+

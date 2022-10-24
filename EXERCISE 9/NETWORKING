@@ -1,0 +1,54 @@
+## Task 
+193.16.20.35/29
+
+Calculate  the Network IP,number of hosts,range of IP addresses and Broadcast IP from this subnet
+
+This is an IPV4 adress because there are 32 bits made up of four octets of 8 bits each. 
+
+
+The first step to take in a task such as this is to obtain the subnet mask from the given IP address above.
+
+This is done by finding host range and converting to binary first. 
+
+From the IP above the subnet mask in binary form would be;
+11111111.11111111.11111111.11111000
+
+The subnet mask that has been obtained would be converted to decimal form.
+
+### Calculate the total number of hosts per subnet.
+
+The sum of all the subnet mask in decimal = 255.255.255.248
+
+## NETWORK IP
+The network IP is the portion of an IP adress that identifies the TCP/IP network on which a host resides.
+
+the network ID is calculated by
+
+the first three Octet of our IP as earlier calculated above is constant. We would simply calculate the last octet to derive our network ID
+
+Fourth octet - 11111000
+Given IP 0010001
+
+The result of this is = 00100000
+
+32
+
+The network ID is 193.16.20.32
+
+## Number of Hosts 
+
+The number of hosts is  calculated with a simple formula;
+2*-2, where x is the number of hosts host ID bits in the IP adress
+
+We have 3 hosts bits from this we have a total of 6 hosts.
+
+## Broadcast IP address
+
+These are expressed as a set of four numbers 
+This is based on your IP adress and subnet mask.
+
+
+### Network ip = 193.16.20.32
+### Number of hosts = 6
+### Range of IP Adress 
+### Broadcast IP = 193.16.20.39

@@ -1,0 +1,40 @@
+# This is a short note of basic linux commands that
+are essential.
+
+
+CAT- This is a short form for concatenate and it is used to display the contents of files without having to open the file.
+
+![cat screenshot](/EXERCISE%202/IMAGES1/cat%20.png)
+
+2. Apt Install - This command is used to install packages in linux
+
+![apt install screenshot](/EXERCISE%202/IMAGES1/apt%20install.png)
+
+3. cd- This is used to open folders
+
+4. whoami - this command is used to display the current user, group and privileges.
+
+![screenshot of cd and whoami](/EXERCISE%202/IMAGES1/cd..%2Cwhoami%2Cfolder.png)
+
+5. help - This command is used to provide information about a built-in shell command in linux
+
+6. man command - This helps to display a detailed user manual of any desired command that can be run on the terminal.
+
+![screenshot of help and man command](/EXERCISE%202/IMAGES1/help%20and%20man%20command.png)
+
+
+7. ssh-keygen - This command is used to generate ssh keys. 
+
+![ssh-keygen screnshot](/EXERCISE%202/IMAGES1/ssh-keygen.png)
+
+8. ps aux - This command is to monitor processes running on your system. this could include memory usage, processor time,system resources amidst other running processes.
+
+![ps aux screenshot](/EXERCISE%202/IMAGES1/ps%20aux%20command.png)
+
+9. vagrant global-status - This command is used to show the state of all the active vagrant environments on the system.
+
+![vagrant global-status screenshot](/EXERCISE%202/IMAGES1/vagrant%20global-status.png)
+
+10. whereis - This command locates the source of specified files in linux
+
+![whereis screenshot](/EXERCISE%202/IMAGES1/which%26where%20is.png)

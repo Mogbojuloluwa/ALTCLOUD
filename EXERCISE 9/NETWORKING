@@ -45,7 +45,7 @@ We have 3 hosts bits from this we have a total of 6 hosts.
 ## Broadcast IP address
 
 These are expressed as a set of four numbers 
-This is based on your IP adress and subnet mask.
+This is based on your IP address and subnet mask.
 
 
 ### Network ip = 193.16.20.32
